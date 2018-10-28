@@ -1,2 +1,2 @@
-# navigation
-Learning Android Navigation
+# Navigation
+Android Navigation
